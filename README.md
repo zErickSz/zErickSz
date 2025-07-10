@@ -16,7 +16,7 @@ Dominar las tecnologías web modernas y crear soluciones digitales que marquen l
 ## 🛠️ Stack Tecnológico
 
 ### Frontend
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
@@ -27,7 +27,7 @@ Dominar las tecnologías web modernas y crear soluciones digitales que marquen l
 </div>
 
 ### Frameworks & Librerías
-<div align="center">
+<div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" />
   <img width="12" />
@@ -36,10 +36,13 @@ Dominar las tecnologías web modernas y crear soluciones digitales que marquen l
 </div>
 
 ### Herramientas
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="Github" />
+  <img width="12" />
 </div>
 
 ---
