@@ -26,12 +26,10 @@ Dominar las tecnologías web modernas y crear soluciones digitales que marquen l
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="Angular" />
 
-### 🎨 Frameworks & Librerías
+### 🎨 Frameworks & Librerías / 🔧 Herramientas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
-
-### 🔧 Herramientas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
