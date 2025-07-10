@@ -159,3 +159,167 @@ Dominar las tecnologías web modernas y crear soluciones digitales que marquen l
 ---
 
 ⭐ **¡No olvides dar estrella a mis repositorios si te gustan!** ⭐
+
+---
+---
+# 👋 Hello! I'm Erick - Web Developer 
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Systems+Engineering+(6th+Semester);Junior+Web+Developer;Fast+Learner+%F0%9F%9A%80;Future+Full+Stack+Developer" alt="Typing SVG" />
+</div>
+
+## 🚀 About Me
+
+I'm a **Systems Engineering student** passionate about web development with a **fast learning** mindset and constant improvement. I'm characterized by my **adaptability**, **teamwork** skills, and **perseverance**. Currently, I focus on **frontend web development** with the goal of becoming a **Full Stack Developer**.
+
+### 🎯 My Goal
+Master modern web technologies and create digital solutions that make a difference.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 🌐 Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="50" alt="Angular" />
+
+### 🎨 Frameworks & Libraries / 🔧 Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="Tailwind CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="VS Code" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="Github" />
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zErickSz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zErickSz&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165">
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=zErickSz&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5" alt="GitHub Streak" height="150">
+  <img src="https://github-profile-trophy.vercel.app?username=zErickSz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="GitHub Trophies" height="150">
+</div>
+
+---
+
+## 🎨 Contribution Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zErickSz/zErickSz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zErickSz/zErickSz/output/pacman-contribution-graph.svg">
+  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/zErickSz/zErickSz/output/pacman-contribution-graph.svg">
+</picture>
+
+---
+
+## 🌟 My Strengths
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/external-flat-wichaiwi/64/000000/external-confidence-generation-z-flat-wichaiwi.png" alt="Assertive" width="50"><br>
+        <strong>Assertive</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/learning.png" alt="Fast Learning" width="50"><br>
+        <strong>Fast Learning</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/collaboration.png" alt="Teamwork" width="50"><br>
+        <strong>Teamwork</strong>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/goal.png" alt="Perseverant" width="50"><br>
+        <strong>Perseverant</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/synchronize.png" alt="Adaptable" width="50"><br>
+        <strong>Adaptable</strong>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/color/64/000000/checklist.png" alt="Organized" width="50"><br>
+        <strong>Organized</strong>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+## 🎯 Currently
+
+- 🔭 Working on **frontend web development** projects
+- 🌱 Learning **Full Stack technologies**
+- 👯 Looking to collaborate on **open source projects**
+- 🥅 2024 Goal: Master **Angular** and start with **Backend**
+- ⚡ Fun fact: I can learn any technology very quickly 🚀
+
+---
+
+## 🌐 Portfolio
+
+<div align="center">
+  <a href="https://zericksz.github.io/Portafolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit_my_Portfolio-FF6B6B?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ericksz/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/erick.tsk/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://t.me/zErickSHz" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:ericksua0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="mailto:erick-sua@hotmail.com">
+    <img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Outlook"/>
+  </a>
+</div>
+
+---
+
+## 🎨 Profile Visualization
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zErickSz&theme=radical" alt="Profile Summary"/>
+</div>
+
+---
+
+<div align="center">
+  <h3>💡 "Code is poetry, and every line tells a story" 💡</h3>
+  <img src="https://komarev.com/ghpvc/?username=zErickSz&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+</div>
+
+---
+
+⭐ **Don't forget to star my repositories if you like them!** ⭐
