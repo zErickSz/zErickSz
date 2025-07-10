@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Erick - Web Developer
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingenier%C3%ADa+de+Sistemas;Desarrollador+Web+Jr;Aprendizaje+R%C3%A1pido+%F0%9F%9A%80;Futuro+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Sistemas;Desarrollador+Web+Jr;Aprendizaje+R%C3%A1pido+%F0%9F%9A%80;Futuro+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
@@ -15,8 +15,7 @@ Dominar las tecnologías web modernas y crear soluciones digitales que marquen l
 
 ## 🛠️ Stack Tecnológico
 
-### Frontend
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="CSS3" />
@@ -24,25 +23,14 @@ Dominar las tecnologías web modernas y crear soluciones digitales que marquen l
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="60" alt="Angular" />
-</div>
-
-### Frameworks & Librerías
-<div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="60" alt="Bootstrap" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS" />
   <img width="12" />
-</div>
-
-### Herramientas
-<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="Github" />
-  <img width="12" />
 </div>
 
 ---
