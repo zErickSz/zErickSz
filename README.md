@@ -162,6 +162,8 @@ Dominar las tecnologías web modernas y crear soluciones digitales que marquen l
 
 ---
 ---
+---
+
 # 👋 Hello! I'm Erick - Web Developer 
 
 <div align="center">
