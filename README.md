@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Erick - Web Developer 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Sistemas+(6%C2%B0+Semestre);Desarrollador+Web+Jr;Aprendizaje+R%C3%A1pido+%F0%9F%9A%80;Futuro+Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ingenier%C3%ADa+de+Sistemas+(6%C2%B0+Sem);Desarrollador+Web+Jr;Aprendizaje+R%C3%A1pido+%F0%9F%9A%80;Futuro+Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 ## 🚀 Sobre Mí
