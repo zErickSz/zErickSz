@@ -28,7 +28,6 @@ Dominar las tecnologías web modernas y crear soluciones digitales que marquen l
 <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
 <img width="12" />
-<img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
 
 ### 🎨 Frameworks & Librerías / 🔧 Herramientas
